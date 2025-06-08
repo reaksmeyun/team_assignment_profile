@@ -50,7 +50,7 @@ header p {
 
 /* hero section */
 .hero {
-    background-image: url('/assest/software_engineering_bg.jpg'); 
+    background-image: url('/assest/software_engineering_bg.png'); 
     background-size: cover;
     background-position: center;
     color: white;
